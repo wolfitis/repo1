@@ -1,1 +1,2 @@
 Just a simple test file
+line 1 after the first commit
