@@ -1,3 +1,4 @@
 Just a simple test file
 line 1 after the first commit
 line 2 after the push
+line 3 after cloning
