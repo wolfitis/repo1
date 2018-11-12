@@ -3,3 +3,4 @@ line 1 after the first commit
 line 2 after the push
 line 3 after cloning
 line 4 on branch1
+line 5 on branch2
